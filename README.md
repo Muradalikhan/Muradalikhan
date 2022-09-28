@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muradalikhan
 - 👀 I’m interested in web development projects
-- 🌱 I’m currently learning Next js
+- 🌱 I’m currently learning Nest js
 - 💞️ I’m looking to collaborate on large scale projects
 - 📫 How to reach me ... murad.jaddoon@gmail.com
 
